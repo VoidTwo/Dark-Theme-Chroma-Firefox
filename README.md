@@ -7,4 +7,4 @@ Firefox browser extension for dark theme with chroma RGB lighting.
 ## Install
 **Firefox version 67.0a1 and above is required.**
 
-Install from Firefox Add-ons: [here]()
+Install from Firefox Add-ons: [here](https://addons.mozilla.org/en-US/firefox/addon/dark-theme-chroma)
