@@ -5,3 +5,4 @@
 *.json text
 
 *.png binary
+*.gif binary
