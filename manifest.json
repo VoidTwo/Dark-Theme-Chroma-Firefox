@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Dark Theme Chroma",
+    "short_name": "Dark Chroma",
+    "description": "Clean dark theme with chroma RGB lighting",
+
+    "developer":
+    {
+        "name": "VoidTwo",
+        "url": "https://github.com/VoidTwo/Dark-Theme-Chroma-Firefox"
+    },
+
+    "browser_specific_settings":
+    {
+        "gecko":
+        {
+            "strict_min_version": "67.0a1"
+        }
+    },
+
+    "permissions": ["alarms", "theme"],
+
+    "background":
+    {
+        "scripts": ["background.js"]
+    }
+}
