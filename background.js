@@ -27,6 +27,7 @@ function initialSetup()
             {
                 colors:
                 {
+                    bookmark_text: hexColors[i],
                     button_background_active: '#464646',
                     button_background_hover: '#323232',
                     icons: hexColors[i],
@@ -45,7 +46,6 @@ function initialSetup()
                     sidebar_highlight: '#464646',
                     sidebar_highlight_text: hexColors[i],
                     sidebar_text: hexColors[i],
-                    tab_background_separator: hexColors[i],
                     tab_background_text: hexColors[i],
                     tab_line: hexColors[i],
                     tab_loading: hexColors[i],
@@ -59,10 +59,8 @@ function initialSetup()
                     toolbar_field_focus: '#141414',
                     toolbar_field_highlight: '#464646',
                     toolbar_field_highlight_text: '#FFFFFF',
-                    toolbar_field_separator: hexColors[i],
                     toolbar_field_text: hexColors[i],
                     toolbar_field_text_focus: hexColors[i],
-                    toolbar_text: hexColors[i],
                     toolbar_top_separator: hexColors[i],
                     toolbar_vertical_separator: hexColors[i]
                 }
