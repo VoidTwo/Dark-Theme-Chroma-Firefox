@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "version": "1.2",
+    "version": "1.3",
     "name": "Dark Theme Chroma",
     "short_name": "Dark Chroma",
     "description": "Clean dark theme with chroma RGB lighting",
